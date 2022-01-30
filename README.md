@@ -2,4 +2,4 @@
 
 - [Ui Credit](https://www.uplabs.com)
 
-![Detail view](screenshorts/netfliximg.jpeg)
+![Netflix Redesign](screenshort/netfliximg.jpeg)
